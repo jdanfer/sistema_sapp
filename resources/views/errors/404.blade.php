@@ -23,7 +23,7 @@
     <body class="hold-transition sidebar-mini">
 
         <!-- =========================================================== -->
-        <h5 style="color:darkgreen" class="mb-2">Resumen del sector iniciado</h5>
+        <h5 style="color: red" class="mb-2">ESTA RUTA NO EXISTE! VERIFIQUE!!</h5>
 
         <!-- jQuery -->
         <script src="../plugins/jquery/jquery.min.js"></script>
@@ -35,14 +35,6 @@
         <script src="../dist/js/demo.js"></script>
         <!-- ChartJS -->
         <script src="../../dist/js/Chart.min.js"></script>
-
-        <div class="py-12">
-            <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-                @livewire('crear-registro')
-
-            </div>
-        </div>
-
 
     </body>
 
